@@ -1,2 +1,2 @@
-# DataViz-Qlik
+# DataViz-Tableau
 Bike rental system 
